@@ -1,0 +1,9 @@
+{
+  "osc1": "fm",
+  "filter": "bandpass",
+  "env1": {
+    "attack": 1.2,
+    "decay": 2.0
+  },
+  "name": "shimmering_ambient_pad_with_metallic_tail"
+}

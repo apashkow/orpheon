@@ -1,0 +1,9 @@
+{
+  "osc1": "triangle",
+  "filter": "highpass",
+  "env1": {
+    "attack": 1.2,
+    "decay": 2.0
+  },
+  "name": "shimmering_ambient_pad"
+}

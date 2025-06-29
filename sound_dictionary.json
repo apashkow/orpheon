@@ -1,0 +1,23 @@
+{
+  "shimmering": {
+    "osc1": "saw",
+    "filter": "highpass",
+    "env1": {"attack": 0.5, "decay": 1.0}
+  },
+  "ambient": {
+    "osc1": "triangle",
+    "env1": {"attack": 1.2, "decay": 2.0}
+  },
+  "metallic": {
+    "osc1": "fm",
+    "filter": "bandpass"
+  },
+  "gritty": {
+    "osc1": "square",
+    "filter": "notch"
+  },
+  "warm": {
+    "osc1": "sine",
+    "filter": "lowpass"
+  }
+}
